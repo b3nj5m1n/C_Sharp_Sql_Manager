@@ -1,0 +1,7 @@
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\obj\Debug\SqlLibrary.csprojAssemblyReference.cache
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\obj\Debug\SqlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\bin\Debug\SqlLibrary.dll
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\bin\Debug\SqlLibrary.pdb
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\obj\Debug\SqlLibrary.dll
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\obj\Debug\SqlLibrary.pdb
+C:\Users\b3nj4m1n\source\repos\SQL_2\SqlLibrary\bin\Debug\SqlLibrary.dll.config
