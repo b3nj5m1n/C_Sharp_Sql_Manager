@@ -160,3 +160,6 @@ sqlManager.ExecuteSqlCommand(Sql_Command, Connection_string);
 
 //Connection_string is the connection string that is going to be used to execute the command
 ```
+
+## Sample Project:
+[SqlDemo](https://github.com/b3nj5m1n/SqlDemo)
